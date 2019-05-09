@@ -1,1 +1,1 @@
-worker: sh out/artifacts/FeironBot_jar/FeironBot.jar
+worker: sh target/bin/workerBot
