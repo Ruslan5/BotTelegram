@@ -1,1 +1,1 @@
-worker: sh target/classes/ua/com/feiron/bot/Main.class
+java -jar out/artifacts/FeironBot_jar/FeironBot.jar
