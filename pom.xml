@@ -126,7 +126,7 @@
                 <dependency>
                     <groupId>org.postgresql</groupId>
                     <artifactId>postgresql</artifactId>
-                    <version>${postgresql.version}</version>
+                    <version>RELEASE</version>
                 </dependency>
                 <dependency>
                     <groupId>org.apache.tomcat</groupId>
